@@ -6,14 +6,14 @@ This project demonstrates how to set up a **high availability VPC architecture**
 ## 🧱 Conceptual Architecture (Block Diagram)
 
 
-![AWS VPC Architecture](images/AWS-VPC.png)
+![AWS VPC Architecture](Images/AWS-VPC.png)
 
 ---
 
 ## 🖼️ Architecture Diagram
 
 
-![AWS VPC Architecture](images/VPC%20Architecture.png)
+![AWS VPC Architecture](Images/VPC%20Architecture.png)
 
 ---
 
